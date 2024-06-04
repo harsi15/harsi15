@@ -9,8 +9,40 @@
 <h3 align="left">About Me</h3>
 
 ###
+<section class="about-text">
+  <ul class="Technical">
+    <h4>Technical Skills:</h4>
+    <li>&emsp; Proficient in <b>Java, Python, C++, React.js, SQL, Git, Docker, AWS, Spring Boot, and more</b></li>
+    <li>&emsp; Experienced in project management tools like <b>Github, Jenkins, JIRA and Scrum</b></li>
+  </ul>
+  <ul class="Professional">
+    <h4>Professional Experience:</h4>   
+    <li>&emsp; Contributed to <b>reducing response times during server outages by 80%</b> at TIAA GBS in India</li>
+    <li>&emsp; Led the development of an API solution resulting in an <b>82% decrease in manual effort</b></li>
+  </ul>
+  <ul class="Project">
+    <h4>Project Experience:</h4>
+    <li>&emsp; Managed the development of a Movies Data Analysis project, improving <b>query execution efficiency by 73%</b></li>
+    <li>&emsp; Crafted a user-friendly e-commerce website 'The Spice Tradition', resulting in an <b>82% increase in online sales</b></li>
+  </ul>
+</section>
 
-<h4 align="left">Ongoing Subjects:<br><br>- Operating Systems - Introduction to Computer Security - DataBase Systems - Game development for <br>mobile platforms<br><br>Subjects Completed:<br>- Design and Analysis of Algorithms - Principles of Programming Languages - Introduction to Machine Learning<br><br>🌱 I’m currently learning JavaScript and TypeScript<br><br>💬 Ask me about Java, MySQL, Apache Camel, CI/CD, and Containerization <br><br>⚡ Fun fact I love solving bugs and errors( P.S. Stack Overflow is my long lost brother )</h4>
+<h4 align="left">Ongoing Subjects:<br>
+  Summer Break - Web Developer Internship<br>
+  <br>Subjects Completed:<br> 
+  <ul> 
+    <li>Design and Analysis of Algorithms</li> 
+    <li>Operating Systems</li> 
+    <li>Principles of Programming Languages</li>
+    <li>DataBase Systems</li> 
+    <li>Introduction to Computer Security </li>
+    <li>Introduction to Machine Learning </li> 
+    <li>Game development for mobile platforms</li>
+  </ul>
+  <br>🌱 I’m currently learning JavaScript and TypeScript<br>
+  <br>💬 Ask me about Java, MySQL, Apache Camel, CI/CD, and Containerization <br>
+  <br>⚡ Fun fact about me I love troubleshooting and debugging complex software issues<br>
+</h4>
 
 ###
 
