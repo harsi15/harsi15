@@ -29,6 +29,7 @@
 
 <h4 align="left">Ongoing Subjects:<br>
   Summer Break - Web Developer Internship<br>
+  Exploring cloud framework
   <br>Subjects Completed:<br> 
   <ul> 
     <li>Design and Analysis of Algorithms</li> 
