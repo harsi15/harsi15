@@ -28,8 +28,11 @@
 </section>
 
 <h4 align="left">Ongoing Subjects:<br>
-  Summer Break - Web Developer Internship<br>
-  Exploring cloud framework<br>
+  <ul> 
+    <li>Systems Programming</li> 
+    <li>Design Patterns</li>
+    <li>Distributed Systems</li> 
+  </ul>
   <br>Subjects Completed:<br> 
   <ul> 
     <li>Design and Analysis of Algorithms</li> 
