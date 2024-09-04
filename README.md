@@ -43,7 +43,7 @@
     <li>Introduction to Machine Learning </li> 
     <li>Game development for mobile platforms</li>
   </ul>
-  <br>🌱 I’m currently learning JavaScript and TypeScript<br>
+  <br>🌱 I’m currently learning Power BI <br>
   <br>💬 Ask me about Java, MySQL, Apache Camel, CI/CD, and Containerization <br>
   <br>⚡ Fun fact about me I love troubleshooting and debugging complex software issues<br>
 </h4>
