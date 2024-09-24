@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">My name is Harsimran Singh Dhillon and I'm a Passionate Full Stack developer currently pursuing an MS in Computer Science</h4>
+<h4 align="center">My name is Harsimran Singh Dhillon and I'm a Passionate Full Stack developer currently pursuing MS in Computer Science</h4>
 
 ###
 
