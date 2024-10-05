@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Java, Spring Boot, Jenkins, Azure, and AWS**
 
+- ⚡ Fun fact about me I love troubleshooting and debugging complex software issues<br>
+
 <h4 align="left">Ongoing Courseworks:<br>
   <ul> 
     <li>Systems Programming</li> 
@@ -27,9 +29,6 @@
     <li>Introduction to Machine Learning </li> 
     <li>Game development for mobile platforms</li>
   </ul>
-  <br>🌱 I’m currently learning Power BI <br>
-  <br>💬 Ask me about Java, MySQL, Apache Camel, CI/CD, and Containerization <br>
-  <br>⚡ Fun fact about me I love troubleshooting and debugging complex software issues<br>
 </h4>
 
 ###
