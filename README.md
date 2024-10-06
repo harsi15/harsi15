@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harsi15.github.io/HarsimranSinghDhillon/](https://harsi15.github.io/HarsimranSinghDhillon/)
 
-- 💬 Ask me about **Java, Spring Boot, Jenkins, Azure, and AWS**
+- 💬 Ask me about **Java, Spring Boot, Jenkins CI/CD, SQL, MongoDB, Azure, and AWS**
 
 - ⚡ Fun fact about me I love troubleshooting and debugging complex software issues<br>
 
