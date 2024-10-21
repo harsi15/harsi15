@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsi15&label=Profile%20views&color=0e75b6&style=flat" alt="harsi15" /> </p>
 
-- 🔭 I’m currently working on [Cricket Data Analysis](https://github.com/harsi15/Cricket-Data-Analysis)
+- 🔭 I’m currently working on Kafka
 
 - 🌱 I’m currently learning **.NET Framework and C#**
 
