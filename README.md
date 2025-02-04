@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsimran Singh Dhillon</h1>
 <h3 align="center">Innovative Software Engineer with Expertise in Java, Python, and Cloud Technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsi15&label=Profile%20views&color=0e75b6&style=flat" alt="harsi15" /> </p>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/harsi15/count.svg" />
+</p>
 
 - 🔭 I’m currently working on Kafka
 
