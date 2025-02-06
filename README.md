@@ -25,18 +25,17 @@
 
 - ⚡ Fun fact about me I love troubleshooting and debugging complex software issues<br>
 
-<h4 align="left">Ongoing Courseworks:<br>
-  <ul> 
-    <li>Systems Programming</li> 
-    <li>Design Patterns</li>
-    <li>Distributed Systems</li> 
-  </ul>
+<h4 align="left">Ongoing:<be>
+  <p>Working as a Cloud Service Compute Intern at MiHIN</p>
   <br>Courseworks Completed:<br> 
   <ul> 
     <li>Design and Analysis of Algorithms</li> 
     <li>Operating Systems</li> 
     <li>Principles of Programming Languages</li>
-    <li>DataBase Systems</li> 
+    <li>DataBase Systems</li>
+    <li>Systems Programming</li> 
+    <li>Design Patterns</li>
+    <li>Distributed Systems</li>
     <li>Introduction to Computer Security </li>
     <li>Introduction to Machine Learning </li> 
     <li>Game development for mobile platforms</li>
