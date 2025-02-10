@@ -2,8 +2,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Harsimran Singh Dhillon</h1>
-<h3 align="center">Innovative Software Engineer with Expertise in Java, Python, and Cloud Technologies</h3>
-
+<h3 align="center">🚀 Passionate Software Engineer | Full-Stack Developer | Data Enthusiast</h3>
+<h3 align="center">💼 Currently Interning at MiHIN as a Cloud Service Compute Intern</h3>
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/harsi15/count.svg" />
@@ -13,21 +13,22 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
-<h3>About Me</h3>
+## 🔥 About Me
+- 💡 I love building scalable applications and working with geospatial technologies, backend development, and cloud computing.
+- 🛠️ Currently developing a Ride-Sharing Application with Geospatial Driver Matching using Node.js, React.js, PostgreSQL, and Google Maps API.
+- 🌎 Interested in AI-powered optimization, distributed systems, and real-time data processing.
+- 🏗️ Constantly exploring new frameworks, design patterns, and cloud solutions.
+- 📖 Open to collaborations on innovative projects!
 
-- 🔭 I’m currently working on Kafka
+## 🛠️ Tech Stack
+- Languages: JavaScript, Python, SQL
+- Frontend: React.js, Vue.js, Tailwind CSS
+- Backend: Node.js, Express.js, Flask, Django
+- Databases: PostgreSQL, MongoDB, Firebase
+- Cloud & DevOps: AWS, Docker, Firebase
+- Geospatial Services: Google Maps API, OpenStreetMap
 
-- 🌱 I’m currently learning **.NET Framework and C#**
-
-- 👨‍💻 All of my projects are available at [https://harsi15.github.io/HarsimranSinghDhillon/](https://harsi15.github.io/HarsimranSinghDhillon/)
-
-- 💬 Ask me about **Java, Spring Boot, Jenkins CI/CD, SQL, MongoDB, Azure, and AWS**
-
-- ⚡ Fun fact about me I love troubleshooting and debugging complex software issues<br>
-
-<h4 align="left">Ongoing:<be>
-  <p>Working as a Cloud Service Compute Intern at MiHIN</p>
-  <br>Courseworks Completed:<br> 
+## Coursework Completed
   <ul> 
     <li>Design and Analysis of Algorithms</li> 
     <li>Operating Systems</li> 
