@@ -18,7 +18,7 @@
 - 🛠️ Currently developing a Ride-Sharing Application with Geospatial Driver Matching using Node.js, React.js, PostgreSQL, and Google Maps API.
 - 🌎 Interested in AI-powered optimization, distributed systems, and real-time data processing.
 - 🏗️ Constantly exploring new frameworks, design patterns, and cloud solutions.
-- 📖 Open to collaborations on innovative projects!
+- 📖 Open to collaborations on innovative projects
 
 ## 🛠️ Tech Stack
 - Languages: Java, C#, C, C++, Python, PHP, JavaScript, TypeScript, SQL
