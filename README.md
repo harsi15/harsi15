@@ -24,7 +24,7 @@
 - Languages: Java, C#, C, C++, Python, PHP, JavaScript, TypeScript, SQL
 - Frameworks & Libraries: Spring Boot, Flask, Node.js, ReactJS, Angular, .NET, SpringMVC, Apache Camel, HTML, CSS
 - Databases: MySQL, PostgreSQL, MongoDB, Oracle, Redis, DynamoDB, GraphQL
-- Cloud & DevOps: Docker, Kubernetes, Kafka, AWS (EC2, S3, Lambda, EKS), Microsoft Azure, OpenShift, Firebase
+- Cloud & DevOps: Docker, Kubernetes, Kafka, AWS (EC2, S3, Lambda, EKS), Microsoft Azure, OpenShift, Firebase, GCP
 - Software and Tools: Git, Jenkins, JIRA, Agile, Scrum, Splunk, Visual Studio Code, Spring Tool Suite, IntelliJ, Camunda, SWIFT
 - Certifications: Microsoft Azure Fundamentals, Advanced Algorithms, Full Stack Development & REST API, Containerization
 
