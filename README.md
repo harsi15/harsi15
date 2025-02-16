@@ -37,9 +37,9 @@
     <li>Systems Programming</li> 
     <li>Design Patterns</li>
     <li>Distributed Systems</li>
-    <li>Introduction to Computer Security </li>
-    <li>Introduction to Machine Learning </li> 
-    <li>Game development for mobile platforms </li>
+    <li>Introduction to Computer Security</li>
+    <li>Introduction to Machine Learning</li> 
+    <li>Game development for mobile platforms</li>
   </ul>
 </h4>
 
