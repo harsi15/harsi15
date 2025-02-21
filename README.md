@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Harsimran Singh Dhillon!</h1>
-<h3 align="center">🚀 Passionate Software Engineer | Full-Stack Developer | Data Enthusiast | Cloud DevOps</h3>
+<h3 align="center">🚀 Passionate Software Engineer | Full-Stack Developer | Data Engineer | Cloud DevOps</h3>
 <h3 align="center">💼 Currently Interning at MiHIN as a Cloud Service Compute Intern</h3>
 <p align="center"> 
   Visitors count<br>
