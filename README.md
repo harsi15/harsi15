@@ -21,7 +21,7 @@
 - 📖 Open to collaborations on innovative projects
 
 ## 🛠️ Tech Stack
-- Languages: Java, C#, C, C++, Python, PHP, JavaScript, TypeScript, SQL
+- Languages: Java, Python, C, C++, PHP, JavaScript, TypeScript, SQL
 - Frameworks & Libraries: Spring Boot, Flask, Node.js, ReactJS, Angular, .NET, SpringMVC, Apache Camel, HTML, CSS
 - Databases: MySQL, PostgreSQL, MongoDB, Oracle, Redis, DynamoDB, GraphQL
 - Cloud & DevOps: Docker, Kubernetes, Kafka, AWS (EC2, S3, Lambda, EKS), Microsoft Azure, OpenShift, Firebase, GCP
