@@ -42,7 +42,6 @@
     <li>Game development for mobile platforms</li>
   </ul>
 </h4>
-
 ###
 
 <h3 align="left">Languages and Tools:</h3>
